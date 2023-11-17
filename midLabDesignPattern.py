@@ -9,7 +9,7 @@ This is a temporary script file.
 # Python Code For Mid Lab Task 
 """
 There are Four Classes Required 
-​But here i am not able to buld  a logic for Odd Number
+
 1: Students 
 2: Computer 
 3: Iterator 
